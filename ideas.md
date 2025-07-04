@@ -35,9 +35,10 @@ to make shops your main source of income, that could mean lowering the rewards f
 in order to sell software and/or hardware
 that way you can stop someones main income,
 ## PDFs
-I already covered it in #"PDF files" 
+a feature to add PDF files with that, the PDF reader would need an overhaul - to edit PDF files
+but it really doesnt have to be complicated, what i like about the PDF files is that they are readable, and .txt are not, if you could add a .pdf file to your website, if you need to make a user manual or some guide of some kind, pdf editing and creating would make it a whole lot more enjoyable for both sides(seller & buyer) 
 
 ## Those are my main inqueries.
-if someone else wants to add please do!
+if someone else wants to add please do(in the discord server)
 
 
