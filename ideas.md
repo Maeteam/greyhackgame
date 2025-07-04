@@ -50,11 +50,12 @@ any ssh connection etc.. its basically system.log but in real time.
 that way you could also encrypt http connection to result in a mini-https
 so when someone sniffs your router he might be able to get credentials for bank etc..
 The format might be:<br>
-```source: localip<br>
+```
+source: localip<br>
 destination: publicip
 data: mpjpo = vtfsnfb\oqbttxpss = qbttxpss234
-simple caesar cipher of +1 **only** to letters.
 ```
+> simple caesar cipher of +1 **only** to letters.
 so you could play with encryptions & such<br>
 ## Filesystem
 ### Downloads folder
