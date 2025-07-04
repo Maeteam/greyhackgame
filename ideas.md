@@ -51,7 +51,7 @@ that way you could also encrypt http connection to result in a mini-https
 so when someone sniffs your router he might be able to get credentials for bank etc..
 The format might be:<br>
 ```
-source: localip<br>
+source: localip
 destination: publicip
 data: mpjpo = vtfsnfb\oqbttxpss = qbttxpss234
 ```
