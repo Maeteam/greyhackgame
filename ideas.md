@@ -55,7 +55,7 @@ source: localip<br>
 destination: publicip
 data: mpjpo = vtfsnfb\oqbttxpss = qbttxpss234
 ```
-> simple caesar cipher of +1 **only** to letters.
+simple caesar cipher of +1, **only** to letters.
 so you could play with encryptions & such<br>
 ## Filesystem
 ### Downloads folder
