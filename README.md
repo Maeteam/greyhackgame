@@ -1,3 +1,3 @@
 # greyhackgame
 my projects for the game "grey hack"
-[Grey hack](www.greyhackgame.com)
+[Grey hack](https://greyhackgame.com)
