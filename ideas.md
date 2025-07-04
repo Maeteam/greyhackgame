@@ -53,6 +53,7 @@ The format might be:<br>
 ```
 source: localip
 destination: publicip
+protocol: 80/http
 data: mpjpo = vtfsnfb\oqbttxpss = qbttxpss234
 ```
 simple caesar cipher of +1, **only** to letters.
