@@ -37,8 +37,7 @@ a feature to add PDF files with that, the PDF reader would need an overhaul - to
 but it really doesnt have to be complicated, what i like about the PDF files is that they are readable, and .txt are not, if you could add a .pdf file to your website, if you need to make a user manual or some guide of some kind, pdf editing and creating would make it a whole lot more enjoyable for both sides(seller & buyer) 
 ## Programming & Apps
 ### Reboot
-I hope a reboot feature would come to light, `reboot(computer, bool safemode)` probably makes the most sense
-<br>with that, the /bin/reboot source code should be available aswell.
+implemented in nightly :)
 ### AdminMonitor.exe
 I really liked the old admin monitor.
 and now i think with the latest features, adding a way to check if admin/super admin is online(if superadmins sleep or something)
