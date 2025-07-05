@@ -69,7 +69,7 @@ as mentioned before in ##Browser update multiple html files in Public/htdocs wou
 instead of a .onion suffix to websites a .deep could be used
 <br>This means that you would not be able to resolve the IP via nslookup
 <br>but there are downsides:<br>
-- This **only** works on rented remote servers **NOT HOME SERVERS**
+- This **only** works on rented remote servers **not home servers**
 - using whois on the IP will reveal the domain name(this can be changed but i think its better that way.)
     - putting the IP in the browser will lead to the same webpage
     - Doesnt show up in `Recent websites` or `Popular websites` or `Feeling lucky`
