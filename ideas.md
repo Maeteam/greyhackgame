@@ -69,9 +69,9 @@ instead of a .onion suffix to websites a .deep could be used
 <br>This means that you would not be able to resolve the IP via nslookup
 <br>but there are downsides:<br>
 - This **only** works on rented remote servers **not home servers**
-- using whois on the IP will reveal the domain name(this can be changed but i think its better that way.)
-    - putting the IP in the browser will lead to the same webpage
-    - Doesnt show up in `Recent websites` or `Popular websites` or `Feeling lucky`
+- using whois on the IP will reveal the domain name(this can be changed but i think its better that way.
+- putting the IP in the browser will lead to the same webpage
+- Doesnt show up in `Recent websites` or `Popular websites` or `Feeling lucky`
 - Optional: encrypts the IP in http logs on server side(imitates the anonimity feature of the actual .onion websites)
     - you can either encrypt it via a simple base64 or number cipher or actually random IP or just redacted etc..
 ### Conclusion: .deep suffix
